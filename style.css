@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+#score_span {
+    color: azure;
+}
+#container {
+    text-align: center;
+}
+canvas {
+    background-color: white;
+}
